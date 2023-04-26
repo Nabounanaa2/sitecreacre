@@ -1,0 +1,9 @@
+* body {
+    background-color: rgb(58, 84, 155);
+    display: block;
+    margin: 8px;
+    width: 400px;
+}
+#box{
+    text-align: center;
+}
